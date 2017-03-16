@@ -6,3 +6,8 @@ You don't need to do anything but you can write git status to see what files do 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area is just a step before making a commit, it is a place to list which files you want to use as one commit. The value is that you can clearly see what goes into one commit.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+When you make one logical change you should make sure to add the modified file to the staging area and then commit.
