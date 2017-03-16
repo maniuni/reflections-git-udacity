@@ -16,3 +16,8 @@ When you make one logical change you should make sure to add the modified file t
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 When making a new version of the code but you want to keep the other. With branches you can make different changes to the two versions. 
+
+
+How do the diagrams help you visualize the branch structure?
+
+By making the structure look more easily understandable because of the arrows.
