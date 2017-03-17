@@ -26,3 +26,8 @@ By making the structure look more easily understandable because of the arrows.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 As a result we have only one branch which contains commits from both branches. It is represented in this way probably because we get to keep all info from both branches.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging is easier and faster but it can't resolve conflicts by itself.
