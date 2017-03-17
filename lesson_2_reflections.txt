@@ -21,3 +21,8 @@ When making a new version of the code but you want to keep the other. With branc
 How do the diagrams help you visualize the branch structure?
 
 By making the structure look more easily understandable because of the arrows.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+As a result we have only one branch which contains commits from both branches. It is represented in this way probably because we get to keep all info from both branches.
