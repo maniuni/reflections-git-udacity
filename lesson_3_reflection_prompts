@@ -6,3 +6,8 @@ When I want to make a simple text file, it could be easier doing it through the 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Because maybe you are not the only person that uses this repository and there might be problems because of that.
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks - copy repositories only on GitHub, clone - can copy repository from GitHub or from the computer, branch - different version in the same repository. 
