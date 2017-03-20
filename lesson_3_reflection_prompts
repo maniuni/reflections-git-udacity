@@ -16,3 +16,8 @@ Forks - copy repositories only on GitHub, clone - can copy repository from GitHu
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You can view and decide if you want the latest commits from the remote branch to be merged with your branch.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Probably I'll have to use the email to communicate. It would be easier because I wouldn't need to worry about writing commands in the terminal. Tracking who made what at what time and what is the latest version would be harder to track at any time. 
