@@ -25,5 +25,4 @@ Probably I'll have to use the email to communicate. It would be easier because I
 
 When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
 
-I think I may have to watch the last couple of videos again for this answer. It has gotten a bit too complicated for me.
 It gives you an opportunity to receive feedback before updating the master branch. I guess this would be useful if you need the master branch to look good for people that want to look at the project. For more private needs or when not working with others I guess that you can work only on the master branch.
